@@ -1,35 +1,35 @@
 <!-- Profile Banner -->
-# Hi there, I'm J Barani Ganesh :wave: 
-:briefcase: **Network Infrastructure Support @ HCL Tech** 
-:mortar_board: **B.Sc. (Hons) Data Science & AI** @ IIT Guwahati (Distance/Online) 
-:earth_asia: **From:** Madurai, Tamil Nadu, India 
-:zap: **Future Goal:** Build innovative AI solutions that nobody has done before 
-:dart: **Currently Learning:** Python, R, SQL, AI Fundamentals, Networking, Java, Data Visualization
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=J%20Barani%20Ganesh&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38)
+## :wave: About Me
+:briefcase: **IT Analyst at HCL Technologies** 
+:mortar_board: **BSc (Hons) Data Science & AI** @ IIT Guwahati (Mehta Family School of DS&AI) 
+:lock: **Cybersecurity Basics** — Kali Linux, Ethical Hacking Fundamentals 
+:globe_with_meridians: **Networking Skills** — LAN, WAN, Switching, Routing 
+:computer: **Aspiring Full-Stack Developer & AI Engineer** 
 ---
-## :hammer_and_wrench: Tech Stack & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
----
-## :pushpin: Featured Projects
-:small_blue_diamond: **[Network Tools Collection](https://github.com/username/network-tools)** – Scripts for network diagnostics & automation 
-:small_blue_diamond: **[Python Data Viz](https://github.com/username/python-data-viz)** – Data visualization mini-projects in Matplotlib/Seaborn 
-:small_blue_diamond: **[SQL Playground](https://github.com/username/sql-playground)** – Practice queries & database mini-projects 
-:small_blue_diamond: **[AI Mini-Projects](https://github.com/username/ai-mini-projects)** – Small ML/AI projects during my studies 
+## :hammer_and_wrench: Skills & Tools
+**Languages:** Python, C, R, Java (Basics), SQL 
+**Cybersecurity:** Kali Linux, Network Scanning, Basic Pentesting 
+**Networking:** LAN, WAN, Subnetting, VLSM, Cisco Packet Tracer 
+**Data Science:** Pandas, NumPy, Matplotlib, Excel, Statistics 
+**Version Control:** Git & GitHub 
+**OS & Platforms:** Linux, Windows, Cloud Basics (AWS, GCP) 
 ---
 ## :bar_chart: GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=baraniganeshj&show_icons=true&theme=radical) 
-![GitHub Streak](https://streak-stats.demolab.com?user=baraniganeshj&theme=radical&date_format=M%20j%5B%2C%20Y%5D) 
+<div align="center">
+![GitHub Streak](https://streak-stats.demolab.com?user=baraniganeshj&theme=tokyonight&hide_border=true) 
+![Barani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=baraniganeshj&show_icons=true&theme=tokyonight&hide_border=true) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baraniganeshj&layout=compact&theme=tokyonight&hide_border=true) 
+</div>
 ---
-## :mailbox: Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barani-ganesh-216625269/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baraniganesh10@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.linkedin.com/in/barani-ganesh-216625269/)
+## :open_file_folder: Featured Projects
+:rocket: **[LAN & WAN Network Design](#)** – Designed & simulated network topology using Cisco Packet Tracer 
+:bar_chart: **[Data Cleaning in Python](#)** – Processed & visualized real-world datasets with Pandas 
+:closed_lock_with_key: **[Kali Linux Pentesting Lab](#)** – Basic penetration testing environment for learning ethical hacking 
 ---
-> :bulb: *"Consistency beats talent when talent doesn’t work hard."* 
-> _- Barani Ganesh_
+## :mailbox: Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barani-ganesh-216625269/) 
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/baraniganeshj) 
+---
+<!-- Footer -->
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer)
