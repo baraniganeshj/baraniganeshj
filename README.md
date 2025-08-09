@@ -26,9 +26,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=baraniganeshj&show_icons=true&theme=radical) 
 ![GitHub Streak](https://streak-stats.demolab.com?user=baraniganeshj&theme=radical&date_format=M%20j%5B%2C%20Y%5D) 
 ---
-## :snake: Activity Snake
-![Snake animation](https://github.com/baraniganeshj/baraniganeshj/blob/output/github-contribution-grid-snake.svg)
----
 ## :mailbox: Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barani-ganesh-216625269/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baraniganesh10@gmail.com)
