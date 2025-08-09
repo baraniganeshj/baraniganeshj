@@ -1,5 +1,4 @@
 <!-- Profile Banner -->
-![Banner](https://i.imgur.com/zDk7S1z.png)
 # Hi there, I'm J Barani Ganesh :wave: 
 :briefcase: **Network Infrastructure Support @ HCL TechBee** 
 :mortar_board: **B.Sc. (Hons) Data Science & AI** @ IIT Guwahati (Distance/Online) 
